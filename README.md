@@ -244,7 +244,7 @@ Line 4: NumPy + OpenCV = 🔐
 
 ## 👥 Team
 
-Built as part of **UE24CS252B — Computer Networks Mini Project**
+Built as part of math mini project 
 
 ---
 
